@@ -1,0 +1,2 @@
+http://capstone6.run.goorm.io/capstone/mypage.php
+http://capstone6.run.goorm.io/capstone/write.php
